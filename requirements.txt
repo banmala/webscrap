@@ -87,7 +87,7 @@ python-debian===0.1.36ubuntu1
 python-nmap==0.6.1
 pytz==2019.3
 pyxdg==0.26
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.0
 qtconsole==4.7.3
 QtPy==1.9.0
